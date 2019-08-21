@@ -1,4 +1,4 @@
-import { without } from 'lodash';
+let _ = require ('lodash');
 
 let css = document.querySelector("h3");
 let color1 = document.querySelector(".color1");
