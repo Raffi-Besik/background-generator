@@ -1,1 +1,3 @@
-# background-generator
+### Background-Generator
+
+A Simple Background Generator
